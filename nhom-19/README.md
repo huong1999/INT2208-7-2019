@@ -24,7 +24,7 @@
       <li> Product owner: Đỗ Thị Hương.
         <p>Là người chịu trách nhiệm về sự thành công của dự án, người định nghĩa các yêu cầu và đánh giá cuối cùng đầu ra của nhóm.</p></li>       <li> Scrum Master: Nguyễn Thị Khanh.
         <p>Master là người chịu trách nhiệm thiết lập nhóm, thiết lập cuộc họp trong các giai đoạn phát triển và loại bỏ các vật cản ảnh hưởng đến sự phát triển.</p></li>
-      <li> Scrum Development Team: Trịnh Thị Thảo và Nguyễn Thị Huyền Trang.
+      <li> Scrum Development Team: Đỗ Thị Hương, Nguyễn Thị Khanh, Trịnh Thị Thảo và Nguyễn Thị Huyền Trang.
         <p>Team quản lý công việc và tổ chức công việc nhằm hoàn thành các giai đoạn hoặc chu kỳ phát triển.</p></li>
   </ul>
   <h3>Tóm tắt kế hoạch thực hiện:</h3>
